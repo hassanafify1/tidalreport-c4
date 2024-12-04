@@ -22,7 +22,10 @@ This project simulates the ocean tides in Santa Cruz. The goal is to model tidal
 
 3. Install the necessary Python libraries:
     ```bash
-    pip install -r requirements.txt
+    pip install numpy
+    pip install pandas
+    pip install Matplotlib
+    python -m pip install scipy
     ```
 
 ## Project Overview
@@ -34,3 +37,4 @@ This project simulates the ocean tides in Santa Cruz. The goal is to model tidal
 
 ## Contributors
 -  Hassan Afify
+-  Blue Eslami
